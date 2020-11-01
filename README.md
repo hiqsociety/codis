@@ -1,6 +1,7 @@
 ## CODIS X
 
-Codis X, derived from Codis, is a proxy based high performance Redis cluster solution written in Go. 
+Codis X, derived from Codis, is a proxy based high performance Redis cluster solution written in Go.
+instead of the original 1024 maximum nodes, this one will enable up to 65280
 
 ## Donation
 Donate if you want to help us maintaining this project. Thank you!
